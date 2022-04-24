@@ -1,4 +1,33 @@
 
+
+		
+# Ryze Pc Builds
+
+A website for Ryze Pc Builds. It showcases what the store has to offer. Buy prebuilt computer so that it's ready to go or pick and choose which computer parts and customize how you want your it to look.
+
+**Link to project:** https://ryzepcbuilds.netlify.app/
+
+![alt tag](https://ibb.co/sWcRGMW)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+Created a project involving computers since I love the look and building one myself. I used html and chose semantic tags. I styled the CSS to match the computers. Javascript to manuever around the website
+
+## Lessons Learned:
+
+I was amazed I was able to organize the layout and how well it turned out
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Palettable:** https://github.com/DonNguyen808/Rivendell-Gardens
+
+**Twitter Battle:** https://github.com/DonNguyen808/hair-salon
+
+**Patch Panel:** https://github.com/DonNguyen808/Portfolio
+
 Credits:
 
 	Demo Images:
@@ -18,3 +47,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
