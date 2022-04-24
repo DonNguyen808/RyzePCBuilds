@@ -1,6 +1,3 @@
-
-
-		
 # Ryze Pc Builds
 
 A website for Ryze Pc Builds. It showcases what the store has to offer. Buy prebuilt computer so that it's ready to go or pick and choose which computer parts and customize how you want your it to look.
